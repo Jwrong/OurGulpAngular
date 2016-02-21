@@ -1,0 +1,25 @@
+{
+  "name": "gulp_angular",
+  "description": "this is bower",
+  "main": "index.js",
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jquery": "^2.2.0",
+    "angular": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
+  },
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "angular": "^1.5.0",
+    "angular-ui-router": "^0.2.18"
+  }
+}
